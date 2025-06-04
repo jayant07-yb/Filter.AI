@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+python-jose
+pydantic
+sentence-transformers
+torch
+transformers
+PyJWT
